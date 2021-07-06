@@ -25,6 +25,7 @@ module.exports = {
     "no-param-reassign": "off",
     "no-restricted-globals": "off",
     "guard-for-in": "off",
+    "no-debugger": "off",
     quotes: ["error", "double"],
     semi: "error",
   },
